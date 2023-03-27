@@ -1,2 +1,3 @@
-### This repo's only purpose is to provide documentation. <br>
-### Click on the "Wiki" Tab for more!
+### Please Read:
+This repo's purpose is provide documentation for the ProvideQ project. <br>
+You find the content in the "Wiki" tab: https://github.com/ProvideQ/wiki/wiki
